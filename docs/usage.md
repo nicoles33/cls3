@@ -39,3 +39,4 @@ Notes and usage details for cls3.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
